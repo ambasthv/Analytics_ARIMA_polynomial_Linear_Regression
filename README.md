@@ -12,7 +12,7 @@ Auto-Regressive Integrated Moving Average
 • Stationarized regression models that use lags of the dependent variables and/or lags of the forecast errors as regressors
 • The most general class of forecasting models for time series that can be stationarized* by transformations such as differencing, logging, and or deflating
 
-#Polynomial Regression Models
+# Polynomial Regression Models
 
 The polynomial models can be used in those situations where the relationship between study and
 explanatory variables is curvilinear. Sometimes a nonlinear relationship in a small range of explanatory
